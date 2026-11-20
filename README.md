@@ -38,6 +38,11 @@ sentinellite-ioc-platform/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+screenshots/
+├── dashboard.png
+├── ioc-analysis.png
+├── investigation-history.png
+└── api-docs.png
 ```
 
 ## Requirements
